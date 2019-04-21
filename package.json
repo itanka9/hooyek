@@ -1,0 +1,14 @@
+{
+  "name": "hooyek",
+  "version": "1.0.0",
+  "description": "The Glorious Hooyek Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
